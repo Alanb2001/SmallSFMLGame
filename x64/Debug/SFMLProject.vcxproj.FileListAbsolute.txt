@@ -1,1 +1,2 @@
 F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\x64\Debug\SFMLProject.exe
+F:\C++Projects\C++GameDevelopmentByExample\SmallSFMLGame\x64\Debug\SFMLProject.exe
