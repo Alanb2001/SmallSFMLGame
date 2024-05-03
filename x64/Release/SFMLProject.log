@@ -1,0 +1,41 @@
+﻿  Enemy.cpp
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Enemy.cpp(22,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Enemy.cpp(22,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Hero.cpp
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Hero.cpp(28,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Hero.cpp(28,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rocket.cpp
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Rocket.cpp(22,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Rocket.cpp(22,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Source.cpp
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Source.cpp(9,45): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\Source.cpp(9,33): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 301 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFMLProject.vcxproj -> F:\C++Projects\C++GameDevelopmentByExample\SFMLProject\x64\Release\SFMLProject.exe
